@@ -1,0 +1,169 @@
+{
+  "purpose": "Separate data, analysis results, reports, Power BI, code and deliverables",
+  "moves": [
+    {
+      "from": "data/UserBehavior.csv",
+      "to": "data/raw/UserBehavior.csv"
+    },
+    {
+      "from": "results/processed",
+      "to": "data/processed"
+    },
+    {
+      "from": "results/.cache",
+      "to": "data/intermediate"
+    },
+    {
+      "from": "results/08_report_portfolio/PowerBI",
+      "to": "PowerBI"
+    },
+    {
+      "from": "results/08_report_portfolio/assets",
+      "to": "results/09_report_charts"
+    },
+    {
+      "from": "results/08_report_portfolio/operating_lists",
+      "to": "results/10_operating_lists"
+    },
+    {
+      "from": "results/08_report_portfolio/UserBehavior_Report_20Pages.pdf",
+      "to": "reports/UserBehavior_Report_20Pages.pdf"
+    },
+    {
+      "from": "results/08_report_portfolio/UserBehavior_Portfolio.pdf",
+      "to": "reports/UserBehavior_Portfolio.pdf"
+    },
+    {
+      "from": "results/08_report_portfolio/Portfolio.html",
+      "to": "reports/Portfolio.html"
+    },
+    {
+      "from": "results/08_report_portfolio/业务分析报告.md",
+      "to": "reports/业务分析报告.md"
+    },
+    {
+      "from": "results/08_report_portfolio/README.md",
+      "to": "reports/README.md"
+    },
+    {
+      "from": "results/08_report_portfolio/UserBehavior_Portfolio_Package.zip",
+      "to": "deliverables/UserBehavior_Portfolio_Package.zip"
+    },
+    {
+      "from": "results/07_delivery/UserBehavior_Analysis.zip",
+      "to": "deliverables/archive/UserBehavior_Analysis.zip"
+    },
+    {
+      "from": "results/07_delivery/分析报告.md",
+      "to": "reports/分析报告.md"
+    },
+    {
+      "from": "results/07_delivery/dashboard.html",
+      "to": "reports/dashboard.html"
+    },
+    {
+      "from": "results/07_delivery/delivery_manifest.json",
+      "to": "results/08_validation/delivery_manifest.json"
+    },
+    {
+      "from": "results/07_delivery/environment.json",
+      "to": "results/08_validation/environment.json"
+    },
+    {
+      "from": "results/07_delivery/independent_validation.csv",
+      "to": "results/08_validation/independent_validation.csv"
+    },
+    {
+      "from": "results/07_delivery/item_day_validation.json",
+      "to": "results/08_validation/item_day_validation.json"
+    },
+    {
+      "from": "results/07_delivery/raw_sample_path_audit.csv",
+      "to": "results/08_validation/raw_sample_path_audit.csv"
+    },
+    {
+      "from": "results/07_delivery/report_run.log",
+      "to": "results/08_validation/logs/report_run.log"
+    },
+    {
+      "from": "results/07_delivery/validation.csv",
+      "to": "results/08_validation/validation.csv"
+    },
+    {
+      "from": "results/07_delivery/verify_run.log",
+      "to": "results/08_validation/logs/verify_run.log"
+    },
+    {
+      "from": "results/08_report_portfolio/assets_build.log",
+      "to": "results/08_validation/logs/assets_build.log"
+    },
+    {
+      "from": "results/08_report_portfolio/assets_run.log",
+      "to": "results/08_validation/logs/assets_run.log"
+    },
+    {
+      "from": "results/08_report_portfolio/business_analysis_run.log",
+      "to": "results/08_validation/logs/business_analysis_run.log"
+    },
+    {
+      "from": "results/08_report_portfolio/business_findings.json",
+      "to": "results/07_decision_support/business_findings.json"
+    },
+    {
+      "from": "results/08_report_portfolio/business_product_quadrants.csv",
+      "to": "results/07_decision_support/business_product_quadrants.csv"
+    },
+    {
+      "from": "results/08_report_portfolio/portfolio_package_manifest.json",
+      "to": "results/08_validation/portfolio_package_manifest.json"
+    },
+    {
+      "from": "results/08_report_portfolio/powerbi_build.log",
+      "to": "results/08_validation/logs/powerbi_build.log"
+    },
+    {
+      "from": "results/08_report_portfolio/powerbi_validation.log",
+      "to": "results/08_validation/logs/powerbi_validation.log"
+    },
+    {
+      "from": "results/08_report_portfolio/publication_build.log",
+      "to": "results/08_validation/logs/publication_build.log"
+    },
+    {
+      "from": "results/08_report_portfolio/publication_metadata.json",
+      "to": "results/08_validation/publication_metadata.json"
+    },
+    {
+      "from": "results/08_report_portfolio/publication_qa.json",
+      "to": "results/08_validation/publication_qa.json"
+    },
+    {
+      "from": "results/08_report_portfolio/publications_run.log",
+      "to": "results/08_validation/logs/publications_run.log"
+    },
+    {
+      "from": "results/08_report_portfolio/stable_product_candidates.csv",
+      "to": "results/07_decision_support/stable_product_candidates.csv"
+    },
+    {
+      "from": "results/01_data_quality/quality_reaudit.log",
+      "to": "results/08_validation/logs/01_data_quality_quality_reaudit.log"
+    },
+    {
+      "from": "results/01_data_quality/run.log",
+      "to": "results/08_validation/logs/01_data_quality_run.log"
+    },
+    {
+      "from": "results/05_users/preferences_run.log",
+      "to": "results/08_validation/logs/05_users_preferences_run.log"
+    },
+    {
+      "from": "results/06_items/low_sample_export.log",
+      "to": "results/08_validation/logs/06_items_low_sample_export.log"
+    },
+    {
+      "from": "results/08_report_portfolio/.DS_Store",
+      "to": "data/intermediate/file_metadata/08_report_portfolio_.DS_Store"
+    }
+  ]
+}
