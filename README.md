@@ -6,8 +6,8 @@
 
 | 想查看的内容 | 直接打开 |
 | --- | --- |
-| 给招聘者演示项目 | [10页作品集](reports/UserBehavior_Portfolio.pdf) |
-| 阅读融合后的完整分析与业务结论 | [综合分析报告](reports/综合分析报告.md) |
+| 给招聘者演示项目 | [9页作品集](reports/UserBehavior_Portfolio.pdf) |
+| 阅读融合后的完整分析与业务结论 | [综合分析报告 PDF](reports/综合分析报告.pdf)；[Markdown 原文](reports/综合分析报告.md) |
 | 浏览融合看板 | [综合看板.html](reports/综合看板.html) |
 | 编辑Power BI报表 | [UserBehavior.pbip](PowerBI/UserBehavior.pbip) |
 | 了解原始数据与获取方式 | [数据说明](data/README.md) |
