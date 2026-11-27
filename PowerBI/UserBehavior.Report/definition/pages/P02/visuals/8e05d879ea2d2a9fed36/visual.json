@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "8e05d879ea2d2a9fed36",
+  "position": {
+    "x": 25,
+    "y": 654,
+    "width": 1230,
+    "height": 55,
+    "z": 18,
+    "tabOrder": 18
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "加购后24h购买率为浏览起点的3.33倍；围绕意向类型与购买延迟安排分层运营。",
+                    "textStyle": {
+                      "fontFamily": "Microsoft YaHei",
+                      "fontSize": "11pt",
+                      "color": "#152C40"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

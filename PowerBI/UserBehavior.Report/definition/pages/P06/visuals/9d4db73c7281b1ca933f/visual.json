@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "9d4db73c7281b1ca933f",
+  "position": {
+    "x": 25,
+    "y": 654,
+    "width": 1230,
+    "height": 55,
+    "z": 53,
+    "tabOrder": 53
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "14,920个高流量低转化商品承接入围商品33.65%的观察量，仅贡献8.10%的转化；优先优化商品812879等。",
+                    "textStyle": {
+                      "fontFamily": "Microsoft YaHei",
+                      "fontSize": "11pt",
+                      "color": "#152C40"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

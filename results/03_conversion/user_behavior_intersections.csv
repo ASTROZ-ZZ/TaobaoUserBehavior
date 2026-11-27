@@ -1,0 +1,17 @@
+﻿behavior_a,behavior_b,users
+pv,pv,984105
+pv,fav,387547
+pv,cart,735674
+pv,buy,669310
+fav,pv,387547
+fav,fav,389823
+fav,cart,269544
+fav,buy,277227
+cart,pv,735674
+cart,fav,269544
+cart,cart,738996
+cart,buy,531098
+buy,pv,669310
+buy,fav,277227
+buy,cart,531098
+buy,buy,672404

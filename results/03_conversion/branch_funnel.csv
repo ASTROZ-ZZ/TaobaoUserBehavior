@@ -1,0 +1,4 @@
+﻿path,start_pairs,middle_pairs,purchase_pairs,start_to_buy_rate,middle_to_buy_rate
+pv_cart_buy,61713539,507413,33914,0.00054953906,0.066837074
+pv_direct_buy,61713539,0,686380,0.011122033,
+pv_fav_buy,61713539,215545,16827,0.00027266302,0.078067225

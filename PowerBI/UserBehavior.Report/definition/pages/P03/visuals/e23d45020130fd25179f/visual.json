@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "e23d45020130fd25179f",
+  "position": {
+    "x": 25,
+    "y": 10,
+    "width": 1230,
+    "height": 52,
+    "z": 19,
+    "tabOrder": 19
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "时段运营  |  购买发生小时 与 浏览起点小时分别观察",
+                    "textStyle": {
+                      "fontFamily": "Microsoft YaHei",
+                      "fontSize": "21pt",
+                      "color": "#152C40"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

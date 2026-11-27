@@ -1,0 +1,24 @@
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/11_validate_powerbi.py:18: DeprecationWarning: jsonschema.RefResolver is deprecated as of v4.18.0, in favor of the https://github.com/python-jsonschema/referencing library, which provides more compliant referencing behavior as well as more flexible APIs for customization. A future release will remove RefResolver. Please file a feature request (on referencing) if you are missing an API for the kind of customization you need.
+  validator=jsonschema.Draft7Validator(store[url],resolver=jsonschema.RefResolver.from_schema(store[url],store=store))
+{
+  "official_schema_files": 15,
+  "report_files_validated": 65,
+  "visuals": 53,
+  "semantic_field_bindings": 67,
+  "semantic_tables": 14,
+  "m_literal_rows_checked": 20343,
+  "data_checks": "PASS",
+  "conversion_rates": {
+    "加购": 0.03962547996803698,
+    "收藏": 0.034517913362902504,
+    "浏览": 0.011916947430287542
+  },
+  "matched_cohort_retention": {
+    "1": 0.7640342772964366,
+    "3": 0.7407857507090997,
+    "7": 0.9833261835576744
+  },
+  "errors": [],
+  "desktop_runtime_tested": false,
+  "status": "PASS"
+}

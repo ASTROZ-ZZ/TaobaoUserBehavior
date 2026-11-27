@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "f15deabb42123210674d",
+  "position": {
+    "x": 25,
+    "y": 654,
+    "width": 1230,
+    "height": 55,
+    "z": 27,
+    "tabOrder": 27
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "21点加强流量与服务承接；10点作为回访测试时段。周末PV较工作日高17.73%，日均买家仅高7.14%。",
+                    "textStyle": {
+                      "fontFamily": "Microsoft YaHei",
+                      "fontSize": "11pt",
+                      "color": "#152C40"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

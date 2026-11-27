@@ -1,0 +1,12 @@
+let
+    Source = #table({"FirstBuyDay", "Users", "RepeatUsers"}, {
+      {0,132622,64683},
+      {1,105380,47876},
+      {2,93593,41341},
+      {3,73048,30914},
+      {4,65194,27573},
+      {5,56402,23841}
+    }),
+    Typed = Table.TransformColumnTypes(Source, {{"FirstBuyDay", Int64.Type}, {"Users", Int64.Type}, {"RepeatUsers", Int64.Type}}, "en-US")
+in
+    Typed

@@ -1,0 +1,4 @@
+﻿minimum_pairs,objects,median_conversion,top30_mean_conversion,top30_overlap_with_min100
+50,6188,0.016294999,0.11852758,20
+100,5448,0.016717413,0.10755935,30
+200,4610,0.016786575,0.10283433,18

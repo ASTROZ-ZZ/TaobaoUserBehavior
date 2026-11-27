@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "rows": 15183398,
+  "behavior_counts": {
+    "pv": 89660688,
+    "fav": 2888258,
+    "cart": 5530446,
+    "buy": 2015839
+  }
+}

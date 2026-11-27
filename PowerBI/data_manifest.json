@@ -1,0 +1,82 @@
+{
+  "source_window": "2017-11-25 through 2017-12-03 Asia/Shanghai",
+  "source_sha256": "46fdd7d389c1ddc7922eb7d9014af5573a4a3045da28c6c46197636873d8f1a9",
+  "tables": [
+    {
+      "table": "Period",
+      "rows": 1,
+      "columns": 8
+    },
+    {
+      "table": "Daily",
+      "rows": 9,
+      "columns": 6
+    },
+    {
+      "table": "Conversion",
+      "rows": 3,
+      "columns": 5
+    },
+    {
+      "table": "Hours",
+      "rows": 24,
+      "columns": 5
+    },
+    {
+      "table": "OnsetHours",
+      "rows": 24,
+      "columns": 3
+    },
+    {
+      "table": "Segments",
+      "rows": 4,
+      "columns": 6
+    },
+    {
+      "table": "Intents",
+      "rows": 4,
+      "columns": 3
+    },
+    {
+      "table": "Cohort",
+      "rows": 81,
+      "columns": 5
+    },
+    {
+      "table": "Repeat",
+      "rows": 6,
+      "columns": 3
+    },
+    {
+      "table": "Windows",
+      "rows": 9,
+      "columns": 4
+    },
+    {
+      "table": "History",
+      "rows": 6,
+      "columns": 4
+    },
+    {
+      "table": "WeekType",
+      "rows": 2,
+      "columns": 5
+    },
+    {
+      "table": "Products",
+      "rows": 20169,
+      "columns": 5
+    },
+    {
+      "table": "Scope",
+      "rows": 1,
+      "columns": 12
+    }
+  ],
+  "visual_count": 53,
+  "pages": 6,
+  "product_display_pool_rows": 20169,
+  "product_pool_scope": "fixed 20000 sample plus priority/top lists; full SKU count comes only from Scope",
+  "data_refresh": "M literals embed verified snapshot data; refresh requires no file path or network",
+  "desktop_runtime_tested": false
+}

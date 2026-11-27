@@ -1,0 +1,151 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "78e1147f8391a31f665b",
+  "position": {
+    "x": 25,
+    "y": 580,
+    "width": 1230,
+    "height": 65,
+    "z": 17,
+    "tabOrder": 17
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'合格起点与转化规模'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "15D"
+                }
+              }
+            },
+            "fontFamily": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Microsoft YaHei'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Conversion"
+                    }
+                  },
+                  "Property": "Behavior"
+                }
+              },
+              "queryRef": "Conversion.Behavior",
+              "nativeQueryRef": "Behavior",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Conversion"
+                    }
+                  },
+                  "Property": "合格起点对数"
+                }
+              },
+              "queryRef": "Conversion.合格起点对数",
+              "nativeQueryRef": "合格起点对数",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Conversion"
+                    }
+                  },
+                  "Property": "转化对数"
+                }
+              },
+              "queryRef": "Conversion.转化对数",
+              "nativeQueryRef": "转化对数",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Conversion"
+                    }
+                  },
+                  "Property": "24h转化率"
+                }
+              },
+              "queryRef": "Conversion.24h转化率",
+              "nativeQueryRef": "24h转化率",
+              "active": true
+            }
+          ]
+        }
+      }
+    }
+  }
+}

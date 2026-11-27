@@ -1,0 +1,137 @@
+-- Period
+全期PV := SUM(Period[PV])
+
+-- Period
+全期UV := MAX(Period[Users])
+
+-- Period
+全期购买用户占比 := DIVIDE(MAX(Period[Buyers]),MAX(Period[Users]))
+
+-- Period
+人均浏览量 := DIVIDE(SUM(Period[PV]),MAX(Period[Browsers]))
+
+-- Daily
+日活用户 := SUM(Daily[DAU])
+
+-- Daily
+每日PV := SUM(Daily[PV])
+
+-- Daily
+每日购买人数 := SUM(Daily[Buyers])
+
+-- Daily
+日购买用户占比 := DIVIDE(SUM(Daily[Buyers]),SUM(Daily[DAU]))
+
+-- Conversion
+24h转化率 := IF(HASONEVALUE(Conversion[Behavior]),DIVIDE(SUM(Conversion[Converted]),SUM(Conversion[Eligible])),BLANK())
+
+-- Conversion
+浏览后24h购买率 := CALCULATE(DIVIDE(SUM(Conversion[Converted]),SUM(Conversion[Eligible])),Conversion[Behavior]="浏览")
+
+-- Conversion
+加购后24h购买率 := CALCULATE(DIVIDE(SUM(Conversion[Converted]),SUM(Conversion[Eligible])),Conversion[Behavior]="加购")
+
+-- Conversion
+收藏后24h购买率 := CALCULATE(DIVIDE(SUM(Conversion[Converted]),SUM(Conversion[Eligible])),Conversion[Behavior]="收藏")
+
+-- Conversion
+加购24h未购对数 := CALCULATE(SUM(Conversion[NotConverted]),Conversion[Behavior]="加购")
+
+-- Conversion
+合格起点对数 := SUM(Conversion[Eligible])
+
+-- Conversion
+转化对数 := SUM(Conversion[Converted])
+
+-- Hours
+小时PV := SUM(Hours[PV])
+
+-- Hours
+小时购买日志 := SUM(Hours[BuyLogs])
+
+-- Hours
+小时购买用户占比 := DIVIDE(SUM(Hours[BuyerUserHours]),SUM(Hours[ActiveUserHours]))
+
+-- OnsetHours
+起点小时24h转化率 := DIVIDE(SUM(OnsetHours[Converted]),SUM(OnsetHours[Eligible]))
+
+-- Segments
+分层人数 := SUM(Segments[Users])
+
+-- Segments
+分层用户占比 := DIVIDE(SUM(Segments[Users]),CALCULATE(SUM(Segments[Users]),ALL(Segments)))
+
+-- Intents
+画像人数 := SUM(Intents[Users])
+
+-- Cohort
+精确日留存率 := IF(HASONEVALUE(Cohort[Offset]),DIVIDE(SUM(Cohort[Retained]),SUMX(FILTER(Cohort,NOT ISBLANK(Cohort[Retained])),Cohort[BaseUsers])),BLANK())
+
+-- Cohort
+同批用户D1 := CALCULATE(DIVIDE(SUM(Cohort[Retained]),SUM(Cohort[BaseUsers])),REMOVEFILTERS(Cohort),Cohort[CohortDay]<=1,Cohort[Offset]=1)
+
+-- Cohort
+同批用户D3 := CALCULATE(DIVIDE(SUM(Cohort[Retained]),SUM(Cohort[BaseUsers])),REMOVEFILTERS(Cohort),Cohort[CohortDay]<=1,Cohort[Offset]=3)
+
+-- Cohort
+同批用户D7 := CALCULATE(DIVIDE(SUM(Cohort[Retained]),SUM(Cohort[BaseUsers])),REMOVEFILTERS(Cohort),Cohort[CohortDay]<=1,Cohort[Offset]=7)
+
+-- Repeat
+三日再次购买率 := DIVIDE(SUM(Repeat[RepeatUsers]),SUM(Repeat[Users]))
+
+-- Windows
+窗口转化率 := IF(HASONEVALUE(Windows[Behavior])&&HASONEVALUE(Windows[Hours]),DIVIDE(SUM(Windows[Converted]),SUM(Windows[Eligible])),BLANK())
+
+-- History
+历史分层购买率 := IF(HASONEVALUE(History[Behavior]),DIVIDE(SUM(History[Converted]),SUM(History[Eligible])),BLANK())
+
+-- WeekType
+日均PV := DIVIDE(SUM(WeekType[PV]),SUM(WeekType[Days]))
+
+-- WeekType
+日均活跃 := DIVIDE(SUM(WeekType[ActiveUserDays]),SUM(WeekType[Days]))
+
+-- WeekType
+周末购买用户日占比 := CALCULATE(DIVIDE(SUM(WeekType[BuyerUserDays]),SUM(WeekType[ActiveUserDays])),WeekType[DayType]="周末")
+
+-- WeekType
+购买用户日占比 := DIVIDE(SUM(WeekType[BuyerUserDays]),SUM(WeekType[ActiveUserDays]))
+
+-- Products
+展示商品浏览人数 := IF(HASONEVALUE(Products[Item]),SUM(Products[BrowseUsers]),BLANK())
+
+-- Products
+展示商品24h转化率 := IF(HASONEVALUE(Products[Item]),DIVIDE(SUM(Products[Converted]),SUM(Products[Eligible])),BLANK())
+
+-- Products
+展示起点对数 := SUM(Products[Eligible])
+
+-- Scope
+全量商品数 := MAX(Scope[AllProducts])
+
+-- Scope
+合格商品数 := MAX(Scope[EligibleProducts])
+
+-- Scope
+商品入榜覆盖 := DIVIDE(MAX(Scope[EligibleProducts]),MAX(Scope[AllProducts]))
+
+-- Scope
+浏览高峰小时 := MAX(Scope[PeakPVHour])
+
+-- Scope
+购买高峰小时 := MAX(Scope[PeakBuyHour])
+
+-- Scope
+起点转化高峰小时 := MAX(Scope[PeakOnsetHour])
+
+-- Scope
+优先排查商品 := SELECTEDVALUE(Scope[PrioritySKU])
+
+-- Scope
+高活跃低购买人数 := MAX(Scope[HighActiveLowBuyUsers])
+
+-- Scope
+高活跃未购加购人数 := MAX(Scope[HighActiveNeverBuyCartUsers])
+
+-- Scope
+跨日购买用户占比 := DIVIDE(MAX(Scope[MultiBuyDayUsers]),MAX(Scope[AllBuyers]))

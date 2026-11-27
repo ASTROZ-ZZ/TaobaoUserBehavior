@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "929ad0ef94baf75e7202",
+  "position": {
+    "x": 25,
+    "y": 10,
+    "width": 1230,
+    "height": 52,
+    "z": 28,
+    "tabOrder": 28
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "用户运营  |  高活跃至少7天  高购买至少2个自然日",
+                    "textStyle": {
+                      "fontFamily": "Microsoft YaHei",
+                      "fontSize": "21pt",
+                      "color": "#152C40"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

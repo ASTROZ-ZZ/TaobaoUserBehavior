@@ -1,0 +1,11 @@
+Quality re-audit: 9,999,893 rows
+Quality re-audit: 19,999,976 rows
+Quality re-audit: 29,999,969 rows
+Quality re-audit: 39,999,993 rows
+Quality re-audit: 49,999,807 rows
+Quality re-audit: 59,999,923 rows
+Quality re-audit: 69,999,925 rows
+Quality re-audit: 79,999,841 rows
+Quality re-audit: 89,999,984 rows
+Quality re-audit: 99,999,892 rows
+{"raw_rows": 100150807, "invalid_fields": 0, "outside_window": 55576, "clean_rows": 100095231, "exact_duplicate_excess": 49, "same_second_multi_behavior_pairs": 4, "raw_timestamp_min": -2134949234, "raw_timestamp_max": 2122867355, "file_bytes": 3672347465, "sha256": "46fdd7d389c1ddc7922eb7d9014af5573a4a3045da28c6c46197636873d8f1a9", "timezone": "Asia/Shanghai", "analysis_start_inclusive": "2017-11-25 00:00:00", "analysis_end_exclusive": "2017-12-04 00:00:00", "unique_users": 987991, "raw_unique_users": 987994, "user_blocks_contiguous": true, "main_duplicate_policy": "retain; distinct-user and binary path metrics unchanged by exact deduplication", "items_with_multiple_categories": 1405, "active_days_threshold": 7, "high_purchase_days_threshold": 2, "high_frequency_purchase_days_threshold": 3, "quality_audit_elapsed_seconds": 127.3183228969574, "quality_audit_method": "independent second full raw-file scan; strict numeric CSV parse", "python": "3.10.16 (main, Dec 11 2024, 10:22:29) [Clang 14.0.6 ]", "pandas": "2.2.3", "numpy": "2.2.5", "platform": "macOS-15.0-arm64-arm-64bit"}

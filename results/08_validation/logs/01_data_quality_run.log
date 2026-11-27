@@ -1,0 +1,520 @@
+19:04:27 SHA256 complete; physical lines=100,150,807
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:04:39 block 1: raw 999,993; clean 999,523; users 9,738
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:04:55 block 2: raw 1,999,927; clean 1,998,936; users 19,543
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:05:14 block 3: raw 2,999,973; clean 2,998,506; users 29,177
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:05:31 block 4: raw 3,999,936; clean 3,997,892; users 39,019
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:05:45 block 5: raw 4,999,893; clean 4,997,261; users 48,983
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:05:58 block 6: raw 5,999,825; clean 5,996,498; users 58,692
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:06:11 block 7: raw 6,999,991; clean 6,996,165; users 68,557
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:06:25 block 8: raw 7,999,938; clean 7,995,616; users 78,215
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:06:38 block 9: raw 8,999,555; clean 8,994,637; users 87,990
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:06:53 block 10: raw 9,999,893; clean 9,994,339; users 97,810
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:07:07 block 11: raw 10,999,955; clean 10,993,910; users 107,700
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:07:20 block 12: raw 11,999,945; clean 11,993,375; users 117,652
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:07:32 block 13: raw 12,999,976; clean 12,992,845; users 127,734
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:07:46 block 14: raw 13,999,961; clean 13,992,325; users 137,727
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:07:59 block 15: raw 14,999,937; clean 14,991,762; users 147,809
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:08:11 block 16: raw 15,999,864; clean 15,991,179; users 157,895
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:08:25 block 17: raw 16,999,812; clean 16,990,597; users 168,401
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:08:38 block 18: raw 17,999,921; clean 17,990,174; users 178,139
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:08:51 block 19: raw 18,999,981; clean 18,989,744; users 188,128
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:09:04 block 20: raw 19,999,976; clean 19,989,182; users 198,001
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:09:17 block 21: raw 20,999,952; clean 20,988,641; users 207,718
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:09:30 block 22: raw 21,999,975; clean 21,987,969; users 217,352
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:09:43 block 23: raw 22,999,982; clean 22,987,475; users 226,946
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:09:55 block 24: raw 23,999,758; clean 23,986,732; users 236,764
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:10:09 block 25: raw 24,999,882; clean 24,986,300; users 246,645
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:10:23 block 26: raw 25,999,987; clean 25,985,835; users 256,410
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:10:36 block 27: raw 26,999,951; clean 26,985,334; users 266,235
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:10:48 block 28: raw 27,999,903; clean 27,984,798; users 276,044
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:11:01 block 29: raw 28,999,975; clean 28,984,291; users 285,707
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:11:14 block 30: raw 29,999,969; clean 29,983,662; users 295,575
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:11:28 block 31: raw 30,999,949; clean 30,983,153; users 305,447
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:11:42 block 32: raw 31,999,989; clean 31,982,683; users 315,393
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:11:55 block 33: raw 32,999,901; clean 32,982,029; users 325,515
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:12:08 block 34: raw 33,999,987; clean 33,981,323; users 335,580
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:12:21 block 35: raw 34,999,855; clean 34,980,674; users 345,580
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:12:34 block 36: raw 35,999,915; clean 35,980,181; users 355,602
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:12:47 block 37: raw 36,999,966; clean 36,979,620; users 366,063
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:12:59 block 38: raw 37,999,855; clean 37,978,869; users 375,640
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:13:12 block 39: raw 38,999,767; clean 38,978,266; users 385,730
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:13:24 block 40: raw 39,999,993; clean 39,978,002; users 395,439
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:13:38 block 41: raw 40,999,974; clean 40,977,492; users 405,408
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:13:51 block 42: raw 41,999,912; clean 41,976,823; users 415,142
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:14:04 block 43: raw 42,999,959; clean 42,976,368; users 424,736
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:14:18 block 44: raw 43,999,999; clean 43,975,910; users 434,572
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:14:30 block 45: raw 44,999,998; clean 44,975,354; users 444,441
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:14:43 block 46: raw 45,999,715; clean 45,974,548; users 454,085
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:14:57 block 47: raw 46,999,982; clean 46,974,350; users 463,706
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:15:10 block 48: raw 47,999,976; clean 47,973,779; users 473,379
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:15:23 block 49: raw 48,999,974; clean 48,973,280; users 482,830
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:15:36 block 50: raw 49,999,807; clean 49,972,557; users 492,943
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:15:49 block 51: raw 50,999,891; clean 50,972,109; users 502,715
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:16:01 block 52: raw 51,999,952; clean 51,971,622; users 512,663
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:16:15 block 53: raw 52,999,953; clean 52,971,087; users 522,686
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:16:28 block 54: raw 53,999,915; clean 53,970,518; users 532,900
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:16:41 block 55: raw 54,999,693; clean 54,969,755; users 542,698
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:16:54 block 56: raw 55,999,951; clean 55,969,223; users 552,727
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:17:08 block 57: raw 56,999,917; clean 56,968,589; users 563,189
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:17:23 block 58: raw 57,999,982; clean 57,968,092; users 572,758
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:17:40 block 59: raw 58,999,834; clean 58,967,294; users 582,666
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:17:59 block 60: raw 59,999,923; clean 59,966,890; users 592,555
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:18:21 block 61: raw 60,999,999; clean 60,966,423; users 602,311
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:18:37 block 62: raw 61,999,965; clean 61,965,855; users 612,097
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:18:51 block 63: raw 62,999,551; clean 62,964,923; users 621,659
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:19:04 block 64: raw 63,999,981; clean 63,964,858; users 631,308
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:19:17 block 65: raw 64,999,640; clean 64,963,987; users 641,029
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:19:29 block 66: raw 65,999,961; clean 65,963,752; users 650,698
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:19:42 block 67: raw 66,999,981; clean 66,963,278; users 660,561
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:20:00 block 68: raw 67,999,992; clean 67,962,719; users 670,320
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:20:16 block 69: raw 68,999,917; clean 68,961,983; users 679,968
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:20:30 block 70: raw 69,999,925; clean 69,961,487; users 689,817
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:20:43 block 71: raw 70,999,822; clean 70,960,765; users 699,639
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:20:55 block 72: raw 71,999,956; clean 71,960,296; users 709,706
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:21:08 block 73: raw 72,999,950; clean 72,959,753; users 719,664
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:21:23 block 74: raw 73,999,970; clean 73,959,298; users 729,740
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:21:36 block 75: raw 74,999,976; clean 74,958,749; users 739,569
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:21:49 block 76: raw 75,999,910; clean 75,958,168; users 749,443
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:22:01 block 77: raw 76,999,967; clean 76,957,628; users 760,036
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:22:14 block 78: raw 77,999,633; clean 77,956,709; users 769,680
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:22:27 block 79: raw 78,999,932; clean 78,956,496; users 779,508
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:22:39 block 80: raw 79,999,841; clean 79,955,593; users 789,274
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:22:52 block 81: raw 80,999,977; clean 80,955,194; users 799,201
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:23:05 block 82: raw 81,999,978; clean 81,954,648; users 808,951
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:23:18 block 83: raw 82,999,999; clean 82,953,942; users 818,642
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:23:30 block 84: raw 83,999,898; clean 83,953,215; users 828,493
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:23:43 block 85: raw 84,999,886; clean 84,952,611; users 838,338
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:23:56 block 86: raw 85,999,986; clean 85,952,263; users 848,024
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:24:10 block 87: raw 86,999,969; clean 86,951,701; users 857,976
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:24:24 block 88: raw 87,999,992; clean 87,951,221; users 867,587
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:24:39 block 89: raw 88,999,916; clean 88,950,617; users 877,244
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:24:55 block 90: raw 89,999,984; clean 89,950,159; users 886,998
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:25:08 block 91: raw 90,999,992; clean 90,949,622; users 896,867
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:25:20 block 92: raw 91,999,924; clean 91,948,960; users 906,891
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:25:33 block 93: raw 92,999,916; clean 92,948,411; users 917,037
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:25:46 block 94: raw 93,999,952; clean 93,947,828; users 927,088
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:26:04 block 95: raw 94,999,802; clean 94,947,180; users 936,785
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:26:20 block 96: raw 95,999,804; clean 95,946,543; users 946,793
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:26:37 block 97: raw 96,999,987; clean 96,946,184; users 957,310
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:26:52 block 98: raw 97,999,890; clean 97,945,547; users 966,787
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:27:05 block 99: raw 98,999,939; clean 98,945,018; users 976,743
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:27:19 block 100: raw 99,999,892; clean 99,944,382; users 986,464
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:27:21 block 101: raw 100,150,755; clean 100,095,179; users 987,993
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py:127: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  qq=qq.merge(success,on=KEY,how='left');qq['success']=qq.success.fillna(False).astype(bool)
+19:27:21 block 102: raw 100,150,807; clean 100,095,231; users 987,994
+19:27:21 Consolidating aggregate outputs
+19:33:35 Writing item-day aggregates
+Traceback (most recent call last):
+  File "/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py", line 231, in <module>
+  File "/Users/astroz/Desktop/Python_Program/Data_Analysis/UserBehavior/Scripts/01_analyze.py", line 226, in main
+    save(pd.DataFrame([{'behavior':k,'raw_rows':v} for k,v in behavior_raw.items()]),'01_data_quality/raw_behavior_values.csv');save(pd.DataFrame(bad_samples),'01_data_quality/excluded_examples.csv')
+  File "/opt/anaconda3/envs/Finance/lib/python3.10/site-packages/pandas/core/generic.py", line 6299, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataFrame' object has no attribute 'behavior'

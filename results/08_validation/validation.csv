@@ -1,0 +1,14 @@
+﻿check,passed,detail
+raw row accounting,True,100150807
+physical lines expected,True,100150807
+daily event reconciliation,True,100095231
+daily PV reconciliation,True,89660688
+hourly PV reconciliation,True,89660688
+user segment coverage,True,987991
+purchase-day group coverage,True,987991
+cohort coverage,True,987991
+cohort unavailable cells missing,True,unobserved follow-up excluded
+conversion counts bounded,True,"[{'behavior': 'cart', 'eligible_pairs': 4639111, 'converted_pairs': 183827, 'censored_pairs': 747473, 'conversion_rate': 0.03962548, 'unconverted_pairs': 4455284}, {'behavior': 'fav', 'eligible_pairs': 2481639, 'converted_pairs': 85661, 'censored_pairs': 388338, 'conversion_rate': 0.034517913, 'unconverted_pairs': 2395978}, {'behavior': 'pv', 'eligible_pairs': 61713539, 'converted_pairs': 735437, 'censored_pairs': 9301653, 'conversion_rate': 0.011916947, 'unconverted_pairs': 60978102}]"
+branch nodes nested,True,start >= middle >= purchase
+onset-hour denominator reconciliation,True,61713539
+source user blocks contiguous,True,checked on every batch

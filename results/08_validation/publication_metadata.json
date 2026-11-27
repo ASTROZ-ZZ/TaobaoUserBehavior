@@ -1,0 +1,10 @@
+{
+  "report_pages": 20,
+  "portfolio_pages": 10,
+  "author": "ASTROZ",
+  "report": "UserBehavior_Report_20Pages.pdf",
+  "portfolio": "UserBehavior_Portfolio.pdf",
+  "powerbi_pages": 6,
+  "powerbi_desktop_tested": false,
+  "panel_rendering": "data-bound presentation assets; see technical README"
+}

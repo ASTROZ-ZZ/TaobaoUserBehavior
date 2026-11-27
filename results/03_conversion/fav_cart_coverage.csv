@@ -1,0 +1,5 @@
+﻿has_fav,has_cart,users,buyers,purchase_rate
+False,False,128716,69141,0.53715933
+False,True,469452,326036,0.69450338
+True,False,120279,72165,0.59998005
+True,True,269544,205062,0.76077375

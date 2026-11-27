@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+
+# Rebuildable intermediates and files beyond GitHub's 100 MiB file limit.
+data/intermediate/
+data/raw/UserBehavior.csv
+data/processed/events_clean.csv.gz

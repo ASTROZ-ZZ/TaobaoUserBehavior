@@ -1,0 +1,144 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "061d32ba61fb43309355",
+  "position": {
+    "x": 25,
+    "y": 210,
+    "width": 770,
+    "height": 360,
+    "z": 42,
+    "tabOrder": 42
+  },
+  "visual": {
+    "visualType": "pivotTable",
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'首次活跃Cohort 精确日留存 空白为未完整随访'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "15D"
+                }
+              }
+            },
+            "fontFamily": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Microsoft YaHei'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "query": {
+      "queryState": {
+        "Rows": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohort"
+                    }
+                  },
+                  "Property": "CohortDate"
+                }
+              },
+              "queryRef": "Cohort.CohortDate",
+              "nativeQueryRef": "CohortDate",
+              "active": true
+            }
+          ]
+        },
+        "Columns": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohort"
+                    }
+                  },
+                  "Property": "Offset"
+                }
+              },
+              "queryRef": "Cohort.Offset",
+              "nativeQueryRef": "Offset",
+              "active": true
+            }
+          ]
+        },
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohort"
+                    }
+                  },
+                  "Property": "精确日留存率"
+                }
+              },
+              "queryRef": "Cohort.精确日留存率",
+              "nativeQueryRef": "精确日留存率",
+              "active": true
+            }
+          ]
+        }
+      }
+    }
+  }
+}

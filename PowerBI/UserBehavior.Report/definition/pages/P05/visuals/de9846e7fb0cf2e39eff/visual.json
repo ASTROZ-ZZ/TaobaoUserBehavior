@@ -1,0 +1,125 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "de9846e7fb0cf2e39eff",
+  "position": {
+    "x": 820,
+    "y": 210,
+    "width": 435,
+    "height": 360,
+    "z": 43,
+    "tabOrder": 43
+  },
+  "visual": {
+    "visualType": "clusteredColumnChart",
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'首个购买日之后完整3天内再次购买'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "15D"
+                }
+              }
+            },
+            "fontFamily": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Microsoft YaHei'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Repeat"
+                    }
+                  },
+                  "Property": "FirstBuyDay"
+                }
+              },
+              "queryRef": "Repeat.FirstBuyDay",
+              "nativeQueryRef": "FirstBuyDay",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Repeat"
+                    }
+                  },
+                  "Property": "三日再次购买率"
+                }
+              },
+              "queryRef": "Repeat.三日再次购买率",
+              "nativeQueryRef": "三日再次购买率",
+              "active": true
+            }
+          ]
+        }
+      }
+    }
+  }
+}

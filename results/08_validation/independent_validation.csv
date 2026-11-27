@@ -1,0 +1,264 @@
+﻿check,passed,actual,expected
+user-day PV vs overview,True,89660688,89660688
+user-day buy logs vs overview,True,2015839,2015839
+day0 distinct active users,True,706641,706641
+day0 buyers,True,132622,132622
+day0 PV,True,9353423,9353423
+day1 distinct active users,True,715516,715516
+day1 buyers,True,136048,136048
+day1 PV,True,9567423,9567423
+day2 distinct active users,True,710094,710094
+day2 buyers,True,146934,146934
+day2 PV,True,9041187,9041187
+day3 distinct active users,True,709257,709257
+day3 buyers,True,139845,139845
+day3 PV,True,8842933,8842933
+day4 distinct active users,True,718922,718922
+day4 buyers,True,146220,146220
+day4 PV,True,9210821,9210821
+day5 distinct active users,True,730597,730597
+day5 buyers,True,146128,146128
+day5 PV,True,9358998,9358998
+day6 distinct active users,True,740139,740139
+day6 buyers,True,139971,139971
+day6 PV,True,9718959,9718959
+day7 distinct active users,True,970401,970401
+day7 buyers,True,174487,174487
+day7 PV,True,12329644,12329644
+day8 distinct active users,True,966977,966977
+day8 buyers,True,173225,173225
+day8 PV,True,12237300,12237300
+independent cohort 0 D0,True,706641,706641
+independent cohort 0 D1,True,557328,557328
+independent cohort 0 D2,True,542838,542838
+independent cohort 0 D3,True,536463,536463
+independent cohort 0 D4,True,537610,537610
+independent cohort 0 D5,True,541422,541422
+independent cohort 0 D6,True,546087,546087
+independent cohort 0 D7,True,696406,696406
+independent cohort 0 D8,True,694326,694326
+independent cohort 1 D0,True,158188,158188
+independent cohort 1 D1,True,103431,103431
+independent cohort 1 D2,True,102183,102183
+independent cohort 1 D3,True,104190,104190
+independent cohort 1 D4,True,105830,105830
+independent cohort 1 D5,True,108478,108478
+independent cohort 1 D6,True,154681,154681
+independent cohort 1 D7,True,154003,154003
+independent cohort 2 D0,True,63825,63825
+independent cohort 2 D1,True,39280,39280
+independent cohort 2 D2,True,39825,39825
+independent cohort 2 D3,True,41082,41082
+independent cohort 2 D4,True,42336,42336
+independent cohort 2 D5,True,62021,62021
+independent cohort 2 D6,True,61690,61690
+independent cohort 3 D0,True,31331,31331
+independent cohort 3 D1,True,19366,19366
+independent cohort 3 D2,True,19950,19950
+independent cohort 3 D3,True,20805,20805
+independent cohort 3 D4,True,30341,30341
+independent cohort 3 D5,True,30149,30149
+independent cohort 4 D0,True,17931,17931
+independent cohort 4 D1,True,12512,12512
+independent cohort 4 D2,True,12905,12905
+independent cohort 4 D3,True,17315,17315
+independent cohort 4 D4,True,17217,17217
+independent cohort 5 D0,True,9801,9801
+independent cohort 5 D1,True,9273,9273
+independent cohort 5 D2,True,9389,9389
+independent cohort 5 D3,True,9341,9341
+independent cohort 6 D0,True,255,255
+independent cohort 6 D1,True,230,230
+independent cohort 6 D2,True,237,237
+independent cohort 7 D0,True,18,18
+independent cohort 7 D1,True,13,13
+independent cohort 8 D0,True,1,1
+raw sample user1 pv,True,55,55
+raw sample user1 fav,True,0,0
+raw sample user1 cart,True,0,0
+raw sample user1 buy,True,0,0
+raw sample user1 active days,True,9,9
+raw sample user1 buy days,True,0,0
+raw sample user100 pv,True,84,84
+raw sample user100 fav,True,6,6
+raw sample user100 cart,True,0,0
+raw sample user100 buy,True,8,8
+raw sample user100 active days,True,8,8
+raw sample user100 buy days,True,3,3
+raw sample user1000 pv,True,67,67
+raw sample user1000 fav,True,12,12
+raw sample user1000 cart,True,2,2
+raw sample user1000 buy,True,0,0
+raw sample user1000 active days,True,8,8
+raw sample user1000 buy days,True,0,0
+raw sample user1000001 pv,True,34,34
+raw sample user1000001 fav,True,0,0
+raw sample user1000001 cart,True,0,0
+raw sample user1000001 buy,True,1,1
+raw sample user1000001 active days,True,6,6
+raw sample user1000001 buy days,True,1,1
+raw sample user1000004 pv,True,126,126
+raw sample user1000004 fav,True,0,0
+raw sample user1000004 cart,True,3,3
+raw sample user1000004 buy,True,0,0
+raw sample user1000004 active days,True,7,7
+raw sample user1000004 buy days,True,0,0
+raw sample user1000011 pv,True,91,91
+raw sample user1000011 fav,True,8,8
+raw sample user1000011 cart,True,0,0
+raw sample user1000011 buy,True,2,2
+raw sample user1000011 active days,True,8,8
+raw sample user1000011 buy days,True,1,1
+raw sample user100002 pv,True,84,84
+raw sample user100002 fav,True,7,7
+raw sample user100002 cart,True,0,0
+raw sample user100002 buy,True,1,1
+raw sample user100002 active days,True,8,8
+raw sample user100002 buy days,True,1,1
+raw sample user1000027 pv,True,12,12
+raw sample user1000027 fav,True,0,0
+raw sample user1000027 cart,True,5,5
+raw sample user1000027 buy,True,2,2
+raw sample user1000027 active days,True,5,5
+raw sample user1000027 buy days,True,2,2
+raw sample user1000028 pv,True,124,124
+raw sample user1000028 fav,True,6,6
+raw sample user1000028 cart,True,14,14
+raw sample user1000028 buy,True,4,4
+raw sample user1000028 active days,True,7,7
+raw sample user1000028 buy days,True,4,4
+raw sample user1000037 pv,True,79,79
+raw sample user1000037 fav,True,4,4
+raw sample user1000037 cart,True,0,0
+raw sample user1000037 buy,True,5,5
+raw sample user1000037 active days,True,7,7
+raw sample user1000037 buy days,True,3,3
+raw sample user1000040 pv,True,447,447
+raw sample user1000040 fav,True,0,0
+raw sample user1000040 cart,True,19,19
+raw sample user1000040 buy,True,0,0
+raw sample user1000040 active days,True,9,9
+raw sample user1000040 buy days,True,0,0
+raw sample user1000045 pv,True,111,111
+raw sample user1000045 fav,True,0,0
+raw sample user1000045 cart,True,0,0
+raw sample user1000045 buy,True,0,0
+raw sample user1000045 active days,True,7,7
+raw sample user1000045 buy days,True,0,0
+raw sample user1000054 pv,True,41,41
+raw sample user1000054 fav,True,0,0
+raw sample user1000054 cart,True,0,0
+raw sample user1000054 buy,True,4,4
+raw sample user1000054 active days,True,9,9
+raw sample user1000054 buy days,True,4,4
+raw sample user1000059 pv,True,263,263
+raw sample user1000059 fav,True,0,0
+raw sample user1000059 cart,True,16,16
+raw sample user1000059 buy,True,0,0
+raw sample user1000059 active days,True,8,8
+raw sample user1000059 buy days,True,0,0
+raw sample user1000060 pv,True,38,38
+raw sample user1000060 fav,True,0,0
+raw sample user1000060 cart,True,7,7
+raw sample user1000060 buy,True,1,1
+raw sample user1000060 active days,True,7,7
+raw sample user1000060 buy days,True,1,1
+raw sample user1000061 pv,True,29,29
+raw sample user1000061 fav,True,0,0
+raw sample user1000061 cart,True,8,8
+raw sample user1000061 buy,True,3,3
+raw sample user1000061 active days,True,8,8
+raw sample user1000061 buy days,True,2,2
+raw sample user1000070 pv,True,91,91
+raw sample user1000070 fav,True,0,0
+raw sample user1000070 cart,True,6,6
+raw sample user1000070 buy,True,1,1
+raw sample user1000070 active days,True,8,8
+raw sample user1000070 buy days,True,1,1
+raw sample user1000082 pv,True,111,111
+raw sample user1000082 fav,True,0,0
+raw sample user1000082 cart,True,8,8
+raw sample user1000082 buy,True,0,0
+raw sample user1000082 active days,True,8,8
+raw sample user1000082 buy days,True,0,0
+raw sample user1000084 pv,True,210,210
+raw sample user1000084 fav,True,10,10
+raw sample user1000084 cart,True,20,20
+raw sample user1000084 buy,True,7,7
+raw sample user1000084 active days,True,9,9
+raw sample user1000084 buy days,True,4,4
+raw sample user1000085 pv,True,95,95
+raw sample user1000085 fav,True,0,0
+raw sample user1000085 cart,True,13,13
+raw sample user1000085 buy,True,12,12
+raw sample user1000085 active days,True,9,9
+raw sample user1000085 buy days,True,5,5
+raw sample user100009 pv,True,24,24
+raw sample user100009 fav,True,0,0
+raw sample user100009 cart,True,0,0
+raw sample user100009 buy,True,2,2
+raw sample user100009 active days,True,4,4
+raw sample user100009 buy days,True,2,2
+raw sample user1000093 pv,True,55,55
+raw sample user1000093 fav,True,0,0
+raw sample user1000093 cart,True,10,10
+raw sample user1000093 buy,True,0,0
+raw sample user1000093 active days,True,5,5
+raw sample user1000093 buy days,True,0,0
+raw sample user1000095 pv,True,101,101
+raw sample user1000095 fav,True,0,0
+raw sample user1000095 cart,True,3,3
+raw sample user1000095 buy,True,0,0
+raw sample user1000095 active days,True,7,7
+raw sample user1000095 buy days,True,0,0
+raw sample user10001 pv,True,21,21
+raw sample user10001 fav,True,0,0
+raw sample user10001 cart,True,0,0
+raw sample user10001 buy,True,0,0
+raw sample user10001 active days,True,4,4
+raw sample user10001 buy days,True,0,0
+raw sample user100010 pv,True,181,181
+raw sample user100010 fav,True,5,5
+raw sample user100010 cart,True,0,0
+raw sample user100010 buy,True,0,0
+raw sample user100010 active days,True,7,7
+raw sample user100010 buy days,True,0,0
+raw sample user1000103 pv,True,50,50
+raw sample user1000103 fav,True,0,0
+raw sample user1000103 cart,True,1,1
+raw sample user1000103 buy,True,4,4
+raw sample user1000103 active days,True,8,8
+raw sample user1000103 buy days,True,3,3
+raw sample user1000105 pv,True,17,17
+raw sample user1000105 fav,True,0,0
+raw sample user1000105 cart,True,1,1
+raw sample user1000105 buy,True,0,0
+raw sample user1000105 active days,True,6,6
+raw sample user1000105 buy days,True,0,0
+raw sample user1000106 pv,True,63,63
+raw sample user1000106 fav,True,2,2
+raw sample user1000106 cart,True,0,0
+raw sample user1000106 buy,True,0,0
+raw sample user1000106 active days,True,7,7
+raw sample user1000106 buy days,True,0,0
+raw sample user1000107 pv,True,82,82
+raw sample user1000107 fav,True,1,1
+raw sample user1000107 cart,True,15,15
+raw sample user1000107 buy,True,0,0
+raw sample user1000107 active days,True,9,9
+raw sample user1000107 buy days,True,0,0
+raw sample user1000112 pv,True,12,12
+raw sample user1000112 fav,True,0,0
+raw sample user1000112 cart,True,0,0
+raw sample user1000112 buy,True,0,0
+raw sample user1000112 active days,True,4,4
+raw sample user1000112 buy days,True,0,0
+raw sample SQL paths vs direct scan,True,True,True
+same-second event excluded,True,False,False
+24h exact endpoint included,True,True,True
+purchase before onset excluded,True,False,False
+incomplete follow-up missing,True,None,None
+window ending exactly at exclusive bound censored,True,None,None
+03_conversion/conversion_24h.csv bounded rates,True,True,True
+04_time/onset_hour_conversion.csv bounded rates,True,True,True
+05_users/cohort_retention.csv bounded rates,True,True,True

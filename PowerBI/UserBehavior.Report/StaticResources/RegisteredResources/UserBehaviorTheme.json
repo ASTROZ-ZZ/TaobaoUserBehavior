@@ -1,0 +1,61 @@
+{
+  "name": "ASTROZ Retail Analytics",
+  "dataColors": [
+    "#22577A",
+    "#38A3A5",
+    "#D88C43",
+    "#B75252",
+    "#8797A7"
+  ],
+  "background": "#F6F8FB",
+  "foreground": "#152C40",
+  "tableAccent": "#22577A",
+  "textClasses": {
+    "title": {
+      "fontFace": "Microsoft YaHei",
+      "fontSize": 16
+    },
+    "label": {
+      "fontFace": "Microsoft YaHei",
+      "fontSize": 12
+    },
+    "callout": {
+      "fontFace": "Microsoft YaHei",
+      "fontSize": 28
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontSize": 15,
+            "fontFamily": "Microsoft YaHei",
+            "color": {
+              "solid": {
+                "color": "#152C40"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "official_schema_files": 15,
+  "report_files_validated": 65,
+  "visuals": 53,
+  "semantic_field_bindings": 67,
+  "semantic_tables": 14,
+  "m_literal_rows_checked": 20343,
+  "data_checks": "PASS",
+  "conversion_rates": {
+    "加购": 0.03962547996803698,
+    "收藏": 0.034517913362902504,
+    "浏览": 0.011916947430287542
+  },
+  "matched_cohort_retention": {
+    "1": 0.7640342772964366,
+    "3": 0.7407857507090997,
+    "7": 0.9833261835576744
+  },
+  "errors": [],
+  "desktop_runtime_tested": false,
+  "status": "PASS"
+}

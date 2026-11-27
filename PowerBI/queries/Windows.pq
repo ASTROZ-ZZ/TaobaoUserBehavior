@@ -1,0 +1,15 @@
+let
+    Source = #table({"Behavior", "Hours", "Eligible", "Converted"}, {
+      {"加购",1,5335776,66916},
+      {"加购",24,4639111,183827},
+      {"加购",48,3870766,215748},
+      {"收藏",1,2844361,56394},
+      {"收藏",24,2481639,85661},
+      {"收藏",48,2088584,83897},
+      {"浏览",1,70462159,528856},
+      {"浏览",24,61713539,735437},
+      {"浏览",48,52221509,706976}
+    }),
+    Typed = Table.TransformColumnTypes(Source, {{"Behavior", type text}, {"Hours", Int64.Type}, {"Eligible", Int64.Type}, {"Converted", Int64.Type}}, "en-US")
+in
+    Typed

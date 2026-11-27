@@ -1,0 +1,151 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "b414ddcab80b2c89dfde",
+  "position": {
+    "x": 25,
+    "y": 575,
+    "width": 1230,
+    "height": 75,
+    "z": 26,
+    "tabOrder": 26
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'工作日与周末比较'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "15D"
+                }
+              }
+            },
+            "fontFamily": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Microsoft YaHei'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "WeekType"
+                    }
+                  },
+                  "Property": "DayType"
+                }
+              },
+              "queryRef": "WeekType.DayType",
+              "nativeQueryRef": "DayType",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "WeekType"
+                    }
+                  },
+                  "Property": "日均PV"
+                }
+              },
+              "queryRef": "WeekType.日均PV",
+              "nativeQueryRef": "日均PV",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "WeekType"
+                    }
+                  },
+                  "Property": "日均活跃"
+                }
+              },
+              "queryRef": "WeekType.日均活跃",
+              "nativeQueryRef": "日均活跃",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "WeekType"
+                    }
+                  },
+                  "Property": "购买用户日占比"
+                }
+              },
+              "queryRef": "WeekType.购买用户日占比",
+              "nativeQueryRef": "购买用户日占比",
+              "active": true
+            }
+          ]
+        }
+      }
+    }
+  }
+}
